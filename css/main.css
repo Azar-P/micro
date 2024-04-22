@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Segoe UI; }
+    @font-face {
+        font-family:'Segoe UI';
+        src: url(../font/SegoeUI-Semibold.eot);
+        src: url(../font/SegoeUI-Semibold.ttf);
+        src: url(../font/SegoeUI-Semibold.woff);
+        src: url(../font/SegoeUI-Semibold.woff2);
+    }
+
+  @import url(./setting.css);
